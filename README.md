@@ -2,6 +2,7 @@
 ## About **/data** folder
 - First we store the data for training in the **/data/train** folder. 
 - One folder of images created in this folder will stand for one class.
+- You can follow the format of the **/data** folder in this repositery.
 ## Traning step 
 - Installing dependency:
 ```
